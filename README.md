@@ -54,4 +54,8 @@
 ![管理员-客户地区统计](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021708594.jpg)
 
 ![管理员-业务员年度销售额](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021708109.jpg)
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：租车
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
